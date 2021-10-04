@@ -6,3 +6,7 @@ primary purpose was to collect rubbish in a fun and entertaining way. The Projec
 Microbit controller assisted with other sensors and with a cardboard holding to create a prototype.
 
 ![alt text](https://github.com/MarkDavidBates/Social-Robot-BinBot/blob/main/images/binBot_Image1.jpeg)
+
+The chart below shows the general operation of the bin bot.
+
+![alt text](https://github.com/MarkDavidBates/Social-Robot-BinBot/blob/main/images/binBotChart.jpeg)
